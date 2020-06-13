@@ -1,6 +1,4 @@
----
-title: "My First Blog"
-date: 2020-6-13
+
 author: Nafees Zakir
 email: nafeesis@hotmail.com
 
@@ -11,7 +9,6 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
----
 
 
 description: > # this means to ignore newlines until "baseurl:"
