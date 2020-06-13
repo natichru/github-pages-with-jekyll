@@ -1,6 +1,11 @@
-
 author: Nafees Zakir
 email: nafeesis@hotmail.com
+
+description: > # this means to ignore newlines until "baseurl:"
+  Hey there,
+  I am nafees Zakir a individual who i guess is aiming to the top like every one else. hopefully, we all get there soon.
+  See ya! V
+
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
@@ -11,9 +16,5 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
 
 
-description: > # this means to ignore newlines until "baseurl:"
-  Hey there,
-  I am nafees Zakir a individual who i guess is aiming to the top like every one else. hopefully, we all get there soon.
-  See ya! V
 
 
